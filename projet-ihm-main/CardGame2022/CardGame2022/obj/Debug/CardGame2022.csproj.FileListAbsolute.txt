@@ -1,0 +1,48 @@
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe.config
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\bin\Debug\CardGame2022.pdb
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.AssemblyReference.cache
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.SuggestedBindingRedirects.cache
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.MainWindow.resources
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.Properties.Resources.resources
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.GenerateResource.cache
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.exe
+Z:\Documents\Visual Studio 2022\CardGame2022\CardGame2022\obj\Debug\CardGame2022.pdb
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe.config
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\bin\Debug\CardGame2022.pdb
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.AssemblyReference.cache
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.SuggestedBindingRedirects.cache
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.MainWindow.resources
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.Properties.Resources.resources
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.GenerateResource.cache
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.CoreCompileInputs.cache
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.exe
+V:\GitS2V2\gitcour\R2.02 IHM\projet\CardGame2022\CardGame2022\obj\Debug\CardGame2022.pdb
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe.config
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\bin\Debug\CardGame2022.pdb
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.AssemblyReference.cache
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.SuggestedBindingRedirects.cache
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.MainWindow.resources
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.Properties.Resources.resources
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.GenerateResource.cache
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.CoreCompileInputs.cache
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.exe
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.pdb
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.AskName.resources
+Z:\ProjetIHMGIT\projet-ihm\CardGame2022\CardGame2022\obj\Debug\CardGame2022.NumberPlayer.resources
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe.config
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\bin\Debug\CardGame2022.exe
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\bin\Debug\CardGame2022.pdb
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.SuggestedBindingRedirects.cache
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.AskName.resources
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.MainWindow.resources
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.NumberPlayer.resources
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.exe
+\\iut.bx\Etudiants\Home\mdemea\Downloads\projet-ihm-main\CardGame2022\CardGame2022\obj\Debug\CardGame2022.pdb
